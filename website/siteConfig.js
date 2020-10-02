@@ -70,6 +70,7 @@ const siteConfig = {
     linkedin: 'katherinelee703',
     // twitter: '',
     github: 'katherinelee703',
+    naver: 'http://naver.me/GNKXcKK6',
   },
 
   // You may provide arbitrary config keys to be used as needed by your

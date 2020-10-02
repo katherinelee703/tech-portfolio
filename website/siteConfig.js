@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
   title: 'Katherine Lee', // Title for your website.
-  tagline: 'Continuously improving, aspiring technologist.',
+  tagline: '👩‍💻 coding 🍵 caffeinating 🍜 cooking',
   profilePhoto: 'img/profile.png',
   url: 'https://katherinelee703.github.io', // Your website URL
   baseUrl: '/tech-portfolio/', // Base URL for your project */

@@ -68,7 +68,6 @@ const siteConfig = {
 
   socialMedia: {
     linkedin: 'katherinelee703',
-    // twitter: '',
     github: 'katherinelee703',
     naver: 'http://naver.me/GNKXcKK6',
   },

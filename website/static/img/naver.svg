@@ -9,14 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="501.42856"
-   height="442.85715"
+   viewbox="0 0 24 24"
+   width="16px"
+   height="16px"
    id="svg2"
    version="1.1"
    inkscape:version="0.47 r22583"
    sodipodi:docname="새 문서 1">
   <defs
      id="defs4">
+     <style>.cls-1{fill:none;stroke:#72C3E7;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;}</style>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 526.18109 : 1"

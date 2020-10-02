@@ -40,6 +40,7 @@ const siteConfig = {
   users,
 
   favicon: 'img/favicon.ico',
+  headerIcon: 'img/favicon.ico',
 
   /* Colors for website */
   colors: {
@@ -59,7 +60,7 @@ const siteConfig = {
   scripts: ['https://buttons.github.io/buttons.js'],
 
   fonts: {
-    myFont: ['Plantagenet Cherokee', 'Cherokee'],
+    myFont: ['Garamond'],
   },
 
   // On page navigation for the current documentation page.

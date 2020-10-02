@@ -58,6 +58,10 @@ const siteConfig = {
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
 
+  fonts: {
+    myFont: ['Plantagenet Cherokee', 'Cherokee'],
+  },
+
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
   // No .html extensions for paths.

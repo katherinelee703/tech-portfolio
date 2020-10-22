@@ -3,30 +3,37 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+A world-traveling, book-loving, webtoon-translating, steam-gaming, humanities grad turned software engineer. I love hearing about cool new apps and figuring out how things fit together - in the real world and in the shell! I like to think of things as stories, and believe programs (just like characters) deserve their own special type of character development!
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+## Locations
 
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+- New York, NY
+- Seattle, WA
+- Seoul, South Korea
+- Remote
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
+Grace Hopper Alum - Open to Work!
 
-## Recognition
+## Previous Roles
 
-- 2020 Awesome Woman in Technology Award
+- Administrator - XIN Development Group International - New York, NY
+
+  - August 2018 - December 2019
+
+- Graduate Teaching Assistant - Cornell University, Department of Asian Studies - Ithaca, NY
+
+  - January 2018 - June 2018
+
+- Native English Instructor - Chungdahm Learning APRIL English Academy - Seoul, South Korea
+
+  - August 2016 - August 2017
+
+- Translator & Administrator - Yonsei University Korean Language Institute - Seoul, South Korea
+  - September 2014 - April 2015
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- LinkedIn: https://www.linkedin.com/in/katherinelee703/
+- GitHub: https://github.com/katherinelee703

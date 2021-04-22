@@ -1,7 +1,6 @@
 ---
 id: home
-title: Home
-hide-title: true
+title: 🤍
 ---
 
 <div align="center">

@@ -3,26 +3,9 @@ id: about
 title: About
 ---
 
-## I am a:
+## Resume
 
-- world traveler
-- book lover
-- fic writer
-- steam gamer
-- humanities grad turned **software engineer**!
-
-Change is my friend, and so is curiousity.
-
-I love to make && re-make things.
-
-I'm happiest when I am figuring out how things fit together - in the real world and in the shell!
-
-<h3><em>fun fact:</em></h3>
-
-- My favorite place I've visited so far is Hell Valley in Hokkaido.
-- It's also where I took my favorite photo:
-
-![jigokudani](./assets/jigokudani.jpg)
+<a href="https://kateres2021.s3.amazonaws.com/Katherine_Lee_Resume.pdf">View PDF Online</a>
 
 ## Preferred Locations
 

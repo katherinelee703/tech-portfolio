@@ -10,12 +10,16 @@
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
   body {
     background-image: url('https://p.favim.com/orig/2018/12/05/soft-anime-soft-retro-Favim.com-6655979.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 
 @media only screen and (min-width: 1024px) {
   body {
     background-image: url('https://wallpaperaccess.com/full/1975782.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
   }
 }
 

@@ -24,6 +24,7 @@ Please refer to both "Getting Started" sections below to learn how you can try o
 ## Table of Contents
 
 - [Team](#Team)
+
 - [Getting Started - Front End](#Getting-Started)
 
 * [Getting Started - Back End](#Getting-Started)

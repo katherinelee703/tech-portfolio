@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-  title: 'Katherine Lee - Home', // Title for your website.
+  title: 'Katherine Lee', // Title for your website.
   tagline: '| Software Engineer |',
   profilePhoto: 'img/profile.gif',
   url: 'https://katherinelee703.github.io', // Your website URL

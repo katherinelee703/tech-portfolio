@@ -3,23 +3,24 @@ id: about
 title: About
 ---
 
-## About
+## I am a:
 
-_time waits for no one_
+- world traveler
+- book lover
+- fic writer
+- steam gamer
+- humanities grad turned **software engineer**!
 
-I am a:
-• world-traveling,
-• book-loving,
-• fic-writing,
-• steam-gaming,
-• humanities grad turned software engineer!
+Change is my friend, and so is curiousity.
 
-Change is my friend, and so is curiousity. I love to make && re-make things.
+I love to make && re-make things.
 
 I'm happiest when I am figuring out how things fit together - in the real world and in the shell!
 
-_fun fact_
-My favorite place I've visited so far is Hell Valley in Hokkaido. It's also where I took my favorite photo:
+### _fun fact_
+
+- My favorite place I've visited so far is Hell Valley in Hokkaido.
+- It's also where I took my favorite photo:
 
 ![jigokudani](./assets/jigokudani.jpg)
 
@@ -32,7 +33,7 @@ My favorite place I've visited so far is Hell Valley in Hokkaido. It's also wher
 
 ## Current Role
 
-Grace Hopper Alum - Open to Work!
+- Grace Hopper Alum - Open to Work!
 
 ## Previous Roles
 
@@ -51,7 +52,29 @@ Grace Hopper Alum - Open to Work!
 - Translator & Administrator - Yonsei University Korean Language Institute - Seoul, South Korea
   - September 2014 - April 2015
 
+## Education
+
+- Fullstack Academy - Grace Hopper Program - New York, NY
+
+  - Full-time Web Development Immersive
+
+- Cornell University - Ithaca, NY
+
+  - M.A. Asian Studies
+
+- Yonsei University - Korean Language Institute - Seoul, South Korea
+
+  - 2-Year Korean Language Program
+
+- University of Nebraska at Omaha - Omaha, NE
+
+  - B.A. International Studies
+
 ## Social Media
 
 - LinkedIn: https://www.linkedin.com/in/katherinelee703/
+
+  - best place to contact me!
+
 - GitHub: https://github.com/katherinelee703
+  - my pinned projects are my favorites!

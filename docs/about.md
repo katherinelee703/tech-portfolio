@@ -5,59 +5,40 @@ title: About
 
 ## Resume
 
-<a href="https://kateres2021.s3.amazonaws.com/Katherine_Lee_Resume.pdf">View PDF Online</a>
+- <a href="https://kateres2021.s3.amazonaws.com/Katherine_Lee_Resume.pdf">View as PDF Online</a>
 
 ## Preferred Locations
 
-- New York, NY
-- Seattle, WA
-- Seoul, South Korea
+- New York
+- Seattle
+- Seoul
 - Remote
 
 ## Current Role
 
-- Grace Hopper Alum - Open to Work!
+- Grace Hopper Alum — Open to Work!
 
 ## Previous Roles
 
-- Administrator - XIN Development Group International - New York, NY
+- Office Administrator — XIN Development Group International
 
-  - August 2018 - December 2019
+- Graduate Teaching Assistant — Cornell University Asian Studies Dept.
 
-- Graduate Teaching Assistant - Cornell University, Department of Asian Studies - Ithaca, NY
+- Native English Instructor — Chungdahm Learning APRIL English Academy
 
-  - January 2018 - June 2018
-
-- Native English Instructor - Chungdahm Learning APRIL English Academy - Seoul, South Korea
-
-  - August 2016 - August 2017
-
-- Translator & Administrator - Yonsei University Korean Language Institute - Seoul, South Korea
-  - September 2014 - April 2015
+- Translator & Administrator — Yonsei University Korean Language Institute
 
 ## Education
 
-- Fullstack Academy - Grace Hopper Program - New York, NY
+- Grace Hopper Program — Web Development Immersive
 
-  - Full-time Web Development Immersive
+- Cornell University — M.A. Asian Studies
 
-- Cornell University - Ithaca, NY
+- Yonsei University KLI — Korean Language Immersive
 
-  - M.A. Asian Studies
+- University of Nebraska at Omaha — B.A. International Studies
 
-- Yonsei University - Korean Language Institute - Seoul, South Korea
+## Contact
 
-  - 2-Year Korean Language Program
-
-- University of Nebraska at Omaha - Omaha, NE
-
-  - B.A. International Studies
-
-## Social Media
-
-- LinkedIn: https://www.linkedin.com/in/katherinelee703/
-
-  - best place to contact me!
-
-- GitHub: https://github.com/katherinelee703
-  - my pinned projects are my favorites!
+- <a href="https://www.linkedin.com/in/katherinelee703/">LinkedIn</a>
+- <a href="https://github.com/katherinelee703">GitHub</a>

@@ -8,7 +8,7 @@ id: home
 
 </div>
 <div align="center">
-  <h2><em>I am a:</em></h2>
+  <h2><em>I am a:</em></h2>gi
     <p>world traveler  +  book lover  +  fic writer  +  steam gamer</p>
     <p>&&</p>
 		<p>a humanities grad turned <span>software engineer</span>!</p>

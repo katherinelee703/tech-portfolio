@@ -3,7 +3,23 @@ id: about
 title: About
 ---
 
-A world-traveling, book-loving, webtoon-translating, steam-gaming, humanities grad turned software engineer. I love hearing about cool new apps and figuring out how things fit together - in the real world and in the shell! I like to think of things as stories, and believe programs (just like characters) deserve their own special type of character development!
+## About
+
+_time waits for no one_
+
+I am a:
+• world-traveling,
+• book-loving,
+• fic-writing,
+• steam-gaming,
+• humanities grad turned software engineer!
+
+Change is my friend, and so is curiousity. I love to make && re-make things.
+
+I'm happiest when I am figuring out how things fit together - in the real world and in the shell!
+
+_fun fact_
+My favorite place I've visited so far is Hell Valley in Hokkaido. It's also where I took my favorite photo:
 
 ![jigokudani](./assets/jigokudani.jpg)
 

@@ -13,7 +13,8 @@ const users = [];
 
 const siteConfig = {
   title: 'Katherine Lee', // Title for your website.
-  tagline: '| Software Engineer | \n\ntime waits for no one',
+  tagline: '| Software Engineer |',
+  tagline: 'time waits for no one',
   profilePhoto: 'img/profile.gif',
   url: 'https://katherinelee703.github.io', // Your website URL
   baseUrl: '/tech-portfolio/', // Base URL for your project */

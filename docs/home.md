@@ -1,6 +1,7 @@
 ---
 id: home
-hide-title: Home
+title: Home
+hide-title: true
 ---
 
 <div align="center">

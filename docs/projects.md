@@ -3,7 +3,9 @@ id: projects
 title: Projects
 ---
 
-## Shelter in Pets
+#
+
+# Shelter in Pets
 
 During the COVID-19 pandemic, the various social distancing protocols are preventing many people from visiting shelters to adopt pets.
 
@@ -22,8 +24,6 @@ Visit [Shelter-In-Pets](https://expo.io/@shelterinpets/ShelterInPets?release-cha
 Please refer to both "Getting Started" sections below to learn how you can try our app on your local machine!
 
 ### Table of Contents
-
-- [Team](#Team)
 
 - [Getting Started - Front End](#Getting-Started)
 
@@ -44,7 +44,7 @@ Please refer to both "Getting Started" sections below to learn how you can try o
   - [Petfinder API](#Petfinder-API)
   - [Heroku](#Heroku)
 
-## Team
+### Team
 
 #### Kate Lee (that's me!)
 
@@ -70,7 +70,7 @@ Please refer to both "Getting Started" sections below to learn how you can try o
 >
 > LinkedIn: https://www.linkedin.com/in/laura-armfield-perez/
 
-## Getting Started - Front End
+### Getting Started - Front End
 
 #### Note: This is the client side! You must clone the shelter-in-pets-server repo and follow the directions in the README.md https://github.com/sense-5/shelter-in-pets-server or see Getting Started #2 below!
 
@@ -94,7 +94,7 @@ expo start
 
 Go to http://localhost:19002/ to use Shelter in Pets!
 
-## Getting Started - Back End
+### Getting Started - Back End
 
 #### Note: This is the server side! You must clone the shelter-in-pets repo and follow the directions in the README.md https://github.com/sense-5/shelter-in-pets or see Getting Started #1 above!
 
@@ -192,7 +192,9 @@ https://www.heroku.com/what
 
 - Heroku is a cloud platform as a service that allows developers to build and deploy their applications.
 
-## Cutest Coffee Clicker
+#
+
+# Cutest Coffee Clicker
 
 ### Link
 
@@ -204,7 +206,9 @@ an homage to the 2013 hit game "Cookie Clicker"
 
 In a single evening in August 2013, French web developer Julien "Orteil" Thiennot coded a simple browser-based game called "[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)", hoping to direct some traffic to his personal website while also having some fun. Overnight, the game attracted some 50,000 players. Within several months it was garnering 1.5 million page views per day. What began as a one-night project — and something of a joke — is now considered to be a founding entry in the genre of ["idle" or "incremental" games](https://en.wikipedia.org/wiki/Incremental_game), which account for a not insignificant percentage of the \$550 million in revenue generated annually by casual, mobile video games.
 
-## my-bias-book.com
+#
+
+# my-bias-book.com
 
 ### Link
 

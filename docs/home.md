@@ -1,3 +1,8 @@
+---
+id: home
+title: Home
+---
+
 <div align="center">
 
 <h2>Katherine Lee</h2>

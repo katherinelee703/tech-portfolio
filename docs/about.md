@@ -17,7 +17,7 @@ I love to make && re-make things.
 
 I'm happiest when I am figuring out how things fit together - in the real world and in the shell!
 
-### _fun fact_
+<h3><em>fun fact:</em></h3>
 
 - My favorite place I've visited so far is Hell Valley in Hokkaido.
 - It's also where I took my favorite photo:

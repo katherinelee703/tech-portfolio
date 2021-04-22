@@ -20,23 +20,23 @@ title: About
 
 ## Previous Roles
 
-- Office Administrator — XIN Development Group International
+- Office Administrator - XIN Development Group International
 
-- Graduate Teaching Assistant — Cornell University Asian Studies Dept.
+- Graduate Teaching Assistant - Cornell University Asian Studies Dept.
 
-- Native English Instructor — Chungdahm Learning APRIL English Academy
+- Native English Instructor - Chungdahm Learning APRIL English Academy
 
-- Translator & Administrator — Yonsei University Korean Language Institute
+- Translator & Administrator - Yonsei University Korean Language Institute
 
 ## Education
 
-- Grace Hopper Program — Web Development Immersive
+- Grace Hopper Program - Web Development Immersive
 
-- Cornell University — M.A. Asian Studies
+- Cornell University - M.A. Asian Studies
 
-- Yonsei University KLI — Korean Language Immersive
+- Yonsei University KLI - Korean Language Immersive
 
-- University of Nebraska at Omaha — B.A. International Studies
+- University of Nebraska at Omaha - B.A. International Studies
 
 ## Contact
 

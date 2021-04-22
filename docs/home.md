@@ -1,9 +1,11 @@
 ---
 id: home
-title: Hello, I'm Kate.
+hide-title: Home
 ---
 
 <div align="center">
+<h1></h1>
+<h1>Hello, I'm Kate.</h1>
 
 ![pfp](./assets/pfp.jpg)
 
@@ -26,11 +28,14 @@ title: Hello, I'm Kate.
 
 <div align="center">
 <h1></h1>
-  <h2><em>Fun Fact:</em></h2>
-  <p>My favorite place I've visited so far is Hell Valley in Hokkaido.</p>
+  <h2><em>Fun Facts:</em></h2>
+  <p>The most stunning place I've visited so far is Hell Valley in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
 
 ![jigokudani](./assets/jigokudani.jpg)
 
-  <h3>&#10710; <em>time waits for no one...</em></h3>
+  <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p> 
+	<p><em>time waits for no one...</em></p>
+
+<h1></h1>
 </div>

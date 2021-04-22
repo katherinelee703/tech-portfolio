@@ -1,5 +1,6 @@
 ---
 id: home
+title: Hello, I'm Kate.
 ---
 
 <div align="center">
@@ -8,7 +9,7 @@ id: home
 
 </div>
 <div align="center">
-  <h2><em>I am a:</em></h2>gi
+  <h2><em>I am a:</em></h2>
     <p>world traveler  +  book lover  +  fic writer  +  steam gamer</p>
     <p>&&</p>
 		<p>a humanities grad turned <span>software engineer</span>!</p>

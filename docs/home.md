@@ -1,6 +1,6 @@
 ---
 id: home
-title:
+title: ☆
 ---
 
 <div align="center">

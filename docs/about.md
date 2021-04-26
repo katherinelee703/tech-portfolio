@@ -7,6 +7,20 @@ title: About
 
 - <a href="https://kateres2021.s3.amazonaws.com/Katherine_Lee_Resume.pdf">View as PDF Online</a>
 
+## Technologies
+
+- JavaScript
+- NERDs Stack:
+  - Node.js
+  - Express
+  - React / React Native (with Redux)
+  - Databases using SQL (PostgreSQL)
+
+## Certificates
+
+- <a href="https://kateres2021.s3.amazonaws.com/Katherine+Durand+GH+Certificate+of+Completion.pdf">Grace Hopper Program - Web Development Immersive - Certificate of Completion (maiden name: Durand)</a>
+- <a href="https://kateres2021.s3.amazonaws.com/JS+Algos+%26+DS+Masterclass+Certificate.pdf-edited.pdf">Udemy - JavaScript Algorithms & Data Structures Masterclass - Certificate of Completion</a>
+
 ## Preferred Locations
 
 - New York

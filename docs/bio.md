@@ -1,5 +1,5 @@
 ---
-id: home
+id: bio
 title: ☆
 ---
 
@@ -11,23 +11,24 @@ title: ☆
 
 </div>
 <div align="center">
-  <h2><em>I am a:</em></h2>
-    <p>world traveler  +  book lover  +  fic writer  +  steam gamer</p>
+  <h2><em>I am:</em></h2>
+    <p>a <strong>software engineer</strong></p>
     <p>&&</p>
-		<p>a humanities grad turned <span>software engineer</span>!</p>
+    <p>a world traveler  +  book lover  +  fic writer  +  steam gamer</p>
 </div>
 
 <div align="center">
   <p></p>
+  <p>☆</p>
 	<p></p>
-	<h1></h1>
   <p>Change is my friend, and so is curiousity.</p>
-  <p>I love to make, un-make, and re-make things.</p>
+  <p><strong>I love to make, un-make, and re-make things.</strong></p>
   <p>I'm happiest when I'm figuring out how stuff fits together — in the real world and in the shell!</p>
 </div>
 
 <div align="center">
 <h1></h1>
+  <p>===</p>
   <h2><em>Fun Facts:</em></h2>
   <p>The most stunning place I've visited so far is Hell Valley in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
@@ -36,6 +37,6 @@ title: ☆
 
   <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p> 
 	<p><em>time waits for no one...</em></p>
-
+  <p>☆</p>
 <h1></h1>
 </div>

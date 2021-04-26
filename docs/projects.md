@@ -81,7 +81,7 @@ This gallery-style photo submission and upvoting site helps fan photographers sh
 
 ### Preview
 
-- Site currently under maintenance - please enjoy the preview below!
+- Site currently under maintenance — please enjoy the preview below!
 
 - <a href="https://github.com/mybiasbook/mbb#readme">or check out the GitHub Repo</a>
 

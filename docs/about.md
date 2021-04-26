@@ -32,7 +32,7 @@ title: About
 
 - Grace Hopper Alum — Open to Work!
 
-- Notary Public - State of New York
+- Notary Public — State of New York
 
 ## Previous Roles
 

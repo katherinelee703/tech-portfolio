@@ -32,6 +32,8 @@ title: About
 
 - Grace Hopper Alum — Open to Work!
 
+- Notary Public - State of New York
+
 ## Previous Roles
 
 - Office Administrator - XIN Development Group International

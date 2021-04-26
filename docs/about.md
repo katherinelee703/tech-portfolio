@@ -10,7 +10,7 @@ title: About
 ## Technologies
 
 - JavaScript
-- NERDs Stack:
+- NERDS Stack:
   - Node.js
   - Express
   - React / React Native (with Redux)

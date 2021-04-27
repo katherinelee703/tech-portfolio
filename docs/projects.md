@@ -22,7 +22,7 @@ and even recommends adoptable dogs based on the user’s in-app activity.
 ### Overview
 
 - <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Github README for a visual tutorial</a>
-- <a href="https://github.com/sense-5/shelter-in-pets#readme">Or check out our Project Overview</a>
+- <a href="https://kateres2021.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf">Or check out our Project Overview</a>
 
 ### Tech Stack - Front End
 

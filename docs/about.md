@@ -50,6 +50,8 @@ title: About
 
 - Cornell University - M.A. Asian Studies
 
+- Princeton University - Ishikawa Intensive Japanese Program
+
 - Yonsei University KLI - Korean Language Immersive
 
 - University of Nebraska at Omaha - B.A. International Studies

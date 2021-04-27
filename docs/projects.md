@@ -76,8 +76,8 @@ A mock e-commerce site for boutique-style virtual bouquets. Built with the NERDS
 
 ### Overview
 
-- <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Project Overview here</a>
-- <a href="https://github.com/sense-5/shelter-in-pets#readme">Or check out our Github Repo — access to the original site is currently down as it is no longer being maintained by our team</a>
+- <a href="https://kateres2021.s3.amazonaws.com/Violet-Vines-Overview.pdf">See our Project Overview here</a>
+- <a href="https://github.com/2001-800080/graceshopperrepo#readme">Or check out our Github Repo — access to the original site is currently down as it is no longer being maintained by our team</a>
 
 <h1></h1>
 

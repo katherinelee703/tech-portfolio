@@ -7,12 +7,11 @@ title: Bio
 <h1></h1>
 <h1>Hello, I'm Kate.</h1>
 
-<img src="./assets/pfp.jpg" width="300">
+<img src="./assets/pfp.jpg" width="33%">
 
 </div>
 <div align="center">
-  <h2>I am a</h2>
-  <h2><strong>software engineer</strong></h2>
+  <h2>I'm a software engineer.</h2>
 
 </div>
 
@@ -33,14 +32,14 @@ title: Bio
   <p>I'm a dog mom!</p>
   <p>This is Natto — he's a very good boy. </p>
 
-![natto](./assets/natto.jpg)
+<img src="./assets/natto.jpg" width="100%">
 
   <p>☆</p>
 
   <p>The most stunning place I've visited so far is Hell Valley in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
 
-![jigokudani](./assets/jigokudani.jpg)
+<img src="./assets/jigokudani.jpg" width="100%">
 
   <p>☆</p>
 

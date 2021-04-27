@@ -5,13 +5,13 @@ title: Bio
 
 <div align="center">
 <h1></h1>
-<h1>Hello, I'm Kate.</h1>
+<h2>Hello, I'm Kate.</h2>
 
 <img src="./assets/pfp.jpg" width="33%">
 
 </div>
 <div align="center">
-  <h2>I'm a software engineer.</h2>
+  <h3>I'm a software engineer.</h3>
 
 </div>
 
@@ -30,13 +30,13 @@ title: Bio
   <h2><em>Fun Facts:</em></h2>
 
   <p>I'm a dog mom!</p>
-  <p>This is Natto — he's a very good boy. </p>
+  <p>This is Natto — he's a <a href="https://www.instagram.com/goodboynatto/">very good boy</a>:</p>
 
 <img src="./assets/natto.jpg" width="100%">
 
   <p>☆</p>
 
-  <p>The most stunning place I've visited so far is Hell Valley in Hokkaido.</p>
+  <p>The most stunning place I've visited so far is <a href="https://www.japan.travel/en/spot/1908/">Hell Valley</a> in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
 
 <img src="./assets/jigokudani.jpg" width="100%">

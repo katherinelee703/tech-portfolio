@@ -24,27 +24,7 @@ and even recommends adoptable dogs based on the user’s in-app activity.
 - <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Github README for a visual tutorial</a>
 - <a href="https://kateres2021.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf">Or check out our Project Overview</a>
 
-### Tech Stack - Front End
-
-- React Native
-
-- Redux
-
-- Expo
-
-- Clarifai API
-
-### Tech Stack - Back End
-
-- Node.js
-
-- Express
-
-- PostgreSQL
-
-- Petfinder API
-
-- Heroku
+<img src="./assets/sip-preview.png" width="100%">
 
 <h1></h1>
 
@@ -64,6 +44,8 @@ The story goes that in a single evening in August of 2013, French web developer 
 
 - [Cutest-Coffee-Clicker](https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker)
 
+<img src="./assets/cc-preview.png" width="100%">
+
 <h1></h1>
 
 ## Violet Vines
@@ -78,6 +60,8 @@ A mock e-commerce site for boutique-style virtual bouquets. Built with the NERDS
 
 - <a href="https://kateres2021.s3.amazonaws.com/Violet-Vines-Overview.pdf">See our Project Overview here</a>
 - <a href="https://github.com/2001-800080/graceshopperrepo#readme">Or check out our Github Repo — access to the original site is currently down as it is no longer being maintained by our team</a>
+
+<img src="./assets/vv-preview.png" width="100%">
 
 <h1></h1>
 
@@ -101,6 +85,6 @@ This gallery-style photo submission and upvoting site helps fan photographers sh
 
 - <a href="https://github.com/mybiasbook/mbb#readme">or check out the GitHub Repo</a>
 
-![site-preview-img](https://user-images.githubusercontent.com/58742933/112384428-69b2d500-8cbc-11eb-93e0-ef91f53dff92.jpg)
+<img src="https://user-images.githubusercontent.com/58742933/112384428-69b2d500-8cbc-11eb-93e0-ef91f53dff92.jpg" width="100%">
 
 <h1></h1>

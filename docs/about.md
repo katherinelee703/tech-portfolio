@@ -5,7 +5,7 @@ title: About
 
 ## Resume
 
-- <a href="https://kateres2021.s3.amazonaws.com/Katherine_Lee_Resume.pdf">View as PDF Online</a>
+- <a href="https://kateres2021.s3.amazonaws.com/Katherine-Lee-Resume.pdf">View as PDF Online</a>
 
 ## Technologies
 

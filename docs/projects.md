@@ -19,9 +19,10 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
 and even recommends adoptable dogs based on the user’s in-app activity.
 
-### Visual Tutorial
+### Overview
 
-- <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Github README</a>
+- <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Github README for a visual tutorial</a>
+- <a href="https://github.com/sense-5/shelter-in-pets#readme">Or check out our Project Overview</a>
 
 ### Tech Stack - Front End
 
@@ -55,13 +56,28 @@ and even recommends adoptable dogs based on the user’s in-app activity.
 
 A game where all you have to do is click (or touch) the cup of coffee! It's oddly addictive...
 
-This is an homage to the 2013 hit game "Cookie Clicker"
+I made this as part of a 2-day hackathon project and had a ton of fun. It is an homage the 2013 viral hit game "Cookie Clicker."
 
 The story goes that in a single evening in August of 2013, French web developer Julien "Orteil" Thiennot coded a simple browser-based game called "[Cookie Clicker](https://orteil.dashnet.org/cookieclicker/)", hoping to direct some traffic to his personal website while also having some fun. Overnight, the game attracted some 50,000 players. Within several months it was garnering 1.5 million page views per day. What began as a one-night project — and something of a joke — is now considered to be a founding entry in the genre of ["idle" or "incremental" games](https://en.wikipedia.org/wiki/Incremental_game), which account for a not insignificant percentage of the \$550 million in revenue generated annually by casual, mobile video games.
 
 ### Play it here!
 
 - [Cutest-Coffee-Clicker](https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker)
+
+<h1></h1>
+
+## Violet Vines
+
+<h1></h1>
+
+### Summary
+
+A mock e-commerce site for boutique-style virtual bouquets. Built with the NERDS Stack.
+
+### Overview
+
+- <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Project Overview here</a>
+- <a href="https://github.com/sense-5/shelter-in-pets#readme">Or check out our Github Repo — access to the original site is currently down as it is no longer being maintained by our team</a>
 
 <h1></h1>
 

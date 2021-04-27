@@ -1,20 +1,19 @@
 ---
 id: bio
-title: ☆
+title: Bio
 ---
 
 <div align="center">
 <h1></h1>
 <h1>Hello, I'm Kate.</h1>
 
-![pfp](./assets/pfp.jpg)
+<img src="./assets/pfp.jpg" width="300">
 
 </div>
 <div align="center">
-  <h2><em>I am:</em></h2>
-    <p>a <strong>software engineer</strong></p>
-    <p>&&</p>
-    <p>a world traveler  +  book lover  +  fic writer  +  steam gamer</p>
+  <h2>I am a</h2>
+  <h2><strong>software engineer</strong></h2>
+
 </div>
 
 <div align="center">
@@ -30,13 +29,23 @@ title: ☆
 <h1></h1>
   <p>===</p>
   <h2><em>Fun Facts:</em></h2>
+
+  <p>I'm a dog mom!</p>
+  <p>This is Natto — he's a very good boy. </p>
+
+![natto](./assets/natto.jpg)
+
+  <p>☆</p>
+
   <p>The most stunning place I've visited so far is Hell Valley in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
 
 ![jigokudani](./assets/jigokudani.jpg)
 
+  <p>☆</p>
+
   <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p> 
 	<p><em>time waits for no one...</em></p>
-  <p>☆</p>
+ 
 <h1></h1>
 </div>

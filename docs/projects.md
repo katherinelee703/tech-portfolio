@@ -85,6 +85,6 @@ This gallery-style photo submission and upvoting site helps fan photographers sh
 
 - <a href="https://github.com/mybiasbook/mbb#readme">or check out the GitHub Repo</a>
 
-<img src="https://user-images.githubusercontent.com/58742933/112384428-69b2d500-8cbc-11eb-93e0-ef91f53dff92.jpg" width="100%">
+<img src="./assets/mbb-preview.png" width="100%">
 
 <h1></h1>

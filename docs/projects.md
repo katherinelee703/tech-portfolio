@@ -129,11 +129,11 @@ This gallery-style photo submission and upvoting site helps fan photographers sh
 
   - JavaScript, AWS RDS
 
-> <a href="https://github.com/mybiasbook/mbb#readme">You can check out the GitHub Repo here</a>
+> <p><a href="https://mybiasbook.com">Site currently under construction</a> — please enjoy the preview below!</p>
+>
+> <a href="https://github.com/mybiasbook/mbb#readme">Or you can check out the GitHub Repo</a>
 
 ### Preview
-
-> Site currently under construction — please enjoy the preview below!
 
 <img src="./assets/mbb-preview.png" width="100%">
 

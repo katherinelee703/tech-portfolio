@@ -20,9 +20,13 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 ### Tech Stack
 
 - Client Side:
+
   - Expo, React Native, Redux
+
 - Server Side:
+
   - Heroku, Node.js, Express, Sequelize, PostgreSQL
+
 - REST APIs:
 
   - Clarifai, Petfinder, Google Maps
@@ -52,8 +56,11 @@ The story goes that in a single evening in August of 2013, French web developer 
 ### Tech Stack
 
 - Client Side:
+
   - JavaScript, HTML, CSS
+
 - Serverless:
+
   - AWS S3, AWS Lambda
 
 ### Play it here!
@@ -77,9 +84,13 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 ### Tech Stack
 
 - Client Side:
+
   - React, Redux
+
 - Server Side:
+
   - Heroku, Node.js, Express, Sequelize, PostgreSQL
+
 - REST APIs
 
   - Mockaroo custom JSON, Stripe
@@ -111,8 +122,11 @@ This gallery-style photo submission and upvoting site helps fan photographers sh
 ### Tech Stack
 
 - Client Side:
+
   - HTML5 Lens, SASS
+
 - Server Side:
+
   - JavaScript, AWS RDS
 
 > <a href="https://github.com/mybiasbook/mbb#readme">You can check out the GitHub Repo here</a>

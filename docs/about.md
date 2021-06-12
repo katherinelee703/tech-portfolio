@@ -30,7 +30,7 @@ title: About
 
 ## Current Role
 
-- Grace Hopper Alum — Open to Work!
+- Data Science & Development Intern - <a href="https://www.annalect.com/">Annalect</a>
 
 - Notary Public — State of New York
 

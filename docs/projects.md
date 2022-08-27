@@ -95,7 +95,9 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 
   - Mockaroo custom JSON, Stripe
 
-> <p><a href="https://github.com/2001-800080/graceshopperrepo#readme" target=”_blank” rel="noopener noreferrer">See our Github Repo</a> — access to the original site is currently down as it is no longer being maintained by our team</p>
+> <a href="https://violet-vines.herokuapp.com/" target="_blank" rel="noopener noreferrer">Visit the website</a>
+>
+> <a href="https://github.com/2001-800080/graceshopperrepo#readme" target=”_blank” rel="noopener noreferrer">See our Github Repo</a>
 >
 > <a href="https://kateres2021.s3.amazonaws.com/Violet-Vines-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
 
@@ -105,7 +107,7 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 
 <h1></h1>
 
-## My Bias Book
+## <a href="https://mybiasbook.com" target="_blank" rel="noopener noreferrer">My Bias Book</a>
 
 <h1></h1>
 

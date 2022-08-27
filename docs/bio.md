@@ -12,9 +12,6 @@ title: Bio
 </div>
 <div align="center">
   <h3>I'm currently a software engineer at <a href="https://www.checkr.com" target=”_blank” rel="noopener noreferrer">Checkr</a>.</h3>
-</div>
-
-<div align="center">
   <p>☆</p>
   <p>Change is my friend, and so is curiousity.</p>
   <p><strong>I love to make, un-make, and re-make things.</strong></p>

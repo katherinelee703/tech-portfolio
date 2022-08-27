@@ -31,9 +31,9 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
   - Clarifai, Petfinder, Google Maps
 
-> <a href="https://github.com/sense-5/shelter-in-pets#readme">See our Github README for a visual tutorial</a>
+> <a href="https://github.com/sense-5/shelter-in-pets#readme" target=”_blank” rel="noopener noreferrer">See our Github README for a visual tutorial</a>
 >
-> <a href="https://kateres2021.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf">Or check out our Project Overview slides</a>
+> <a href="https://kateres2021.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
 
 ### Preview
 
@@ -41,7 +41,7 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
 <h1></h1>
 
-## <a href="https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker">Cutest Coffee Clicker</a>
+## <a href="https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker" target=”_blank” rel="noopener noreferrer">Cutest Coffee Clicker</a>
 
 <h1></h1>
 
@@ -71,7 +71,7 @@ The story goes that in a single evening in August of 2013, French web developer 
 
 <h1></h1>
 
-## <a href="https://violet-vines.herokuapp.com/">Violet Vines</a>
+## <a href="https://violet-vines.herokuapp.com/" target=”_blank” rel="noopener noreferrer">Violet Vines</a>
 
 <h1></h1>
 
@@ -95,9 +95,9 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 
   - Mockaroo custom JSON, Stripe
 
-> <p><a href="https://github.com/2001-800080/graceshopperrepo#readme">See our Github Repo</a> — access to the original site is currently down as it is no longer being maintained by our team</p>
+> <p><a href="https://github.com/2001-800080/graceshopperrepo#readme" target=”_blank” rel="noopener noreferrer">See our Github Repo</a> — access to the original site is currently down as it is no longer being maintained by our team</p>
 >
-> <a href="https://kateres2021.s3.amazonaws.com/Violet-Vines-Overview.pdf">Or check out our Project Overview slides</a>
+> <a href="https://kateres2021.s3.amazonaws.com/Violet-Vines-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
 
 ### Preview
 
@@ -129,9 +129,9 @@ This gallery-style photo submission and upvoting site helps fan photographers sh
 
   - JavaScript, AWS RDS
 
-> <p><a href="https://mybiasbook.com">Site currently under construction</a> — please enjoy the preview below!</p>
+> <p><a href="https://mybiasbook.com" target=”_blank” rel="noopener noreferrer">Site currently under construction</a> — please enjoy the preview below!</p>
 >
-> <a href="https://github.com/mybiasbook/mbb#readme">Or you can check out the GitHub Repo</a>
+> <a href="https://github.com/mybiasbook/mbb#readme" target=”_blank” rel="noopener noreferrer">Or you can check out the GitHub Repo</a>
 
 ### Preview
 

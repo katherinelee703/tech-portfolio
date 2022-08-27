@@ -11,7 +11,7 @@ title: Bio
 
 </div>
 <div align="center">
-  <h3>I'm currently a software engineer at <a href="https://www.checkr.com">Checkr, Inc.</a></h3>
+  <h3>I'm currently a software engineer at <a href="https://www.checkr.com" target=”_blank” rel="noopener noreferrer">Checkr.</a></h3>
 
 </div>
 
@@ -30,21 +30,22 @@ title: Bio
   <h2><em>Fun Facts:</em></h2>
 
   <p>I'm a dog mom!</p>
-  <p>This is Natto — he's a <a href="https://www.instagram.com/goodboynatto/">very good boy</a>:</p>
+  <p>This is Natto — he's a <a href="https://www.instagram.com/goodboynatto/" target=”_blank” rel="noopener noreferrer">very good boy</a>:</p>
 
 <img src="./assets/natto.jpg" width="100%">
 
   <p>☆</p>
 
-  <p>The most stunning place I've visited so far is <a href="https://www.japan.travel/en/spot/1908/">Hell Valley</a> in Hokkaido.</p>
+  <p>The most stunning place I've visited so far is <a href="https://www.japan.travel/en/spot/1908/" target=”_blank” rel="noopener noreferrer">Hell Valley</a> in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
 
 <img src="./assets/jigokudani.jpg" width="100%">
 
   <p>☆</p>
 
-  <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p> 
-	<p><em>time waits for no one...</em></p>
- 
+  <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p>
+
+<img src="./assets/timewaitsfornoone.gif" width="100%>
+
 <h1></h1>
 </div>

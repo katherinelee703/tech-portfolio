@@ -5,7 +5,7 @@ title: About
 
 ## Resume
 
-- <a href="https://kateres2021.s3.amazonaws.com/Katherine-Lee-Resume.pdf">View as PDF Online</a>
+- <a href="https://kateres2021.s3.amazonaws.com/Katherine-Lee-Resume.pdf" target="_blank" rel="noopener noreferrer">View as PDF Online</a>
 
 ## Technologies
 
@@ -20,9 +20,9 @@ title: About
 
 ## Certificates
 
-- <a href="https://kateres2021.s3.amazonaws.com/Katherine+Durand+GH+Certificate+of+Completion.pdf">Grace Hopper Program - Web Development Immersive - Certificate of Completion (maiden name: Durand)</a>
-- <a href="https://www.udemy.com/certificate/UC-010cfcda-2c7f-4d7c-8782-ae1d4c319313/">Udemy - JavaScript Algorithms & Data Structures Masterclass - Certificate of Completion</a>
-- <a href="https://www.udemy.com/certificate/UC-01e07e07-5a7d-483f-a1d1-55286702e6c7/">Udemy - Mastering TypeScript 2022 - Certificate of Completion</a>
+- <a href="https://kateres2021.s3.amazonaws.com/Katherine+Durand+GH+Certificate+of+Completion.pdf" target=”_blank” rel="noopener noreferrer">Grace Hopper Program - Web Development Immersive - Certificate of Completion (maiden name: Durand)</a>
+- <a href="https://www.udemy.com/certificate/UC-010cfcda-2c7f-4d7c-8782-ae1d4c319313/" target=”_blank” rel="noopener noreferrer">Udemy - JavaScript Algorithms & Data Structures Masterclass - Certificate of Completion</a>
+- <a href="https://www.udemy.com/certificate/UC-01e07e07-5a7d-483f-a1d1-55286702e6c7/" target=”_blank” rel="noopener noreferrer">Udemy - Mastering TypeScript 2022 - Certificate of Completion</a>
 
 ## Preferred Locations
 
@@ -33,15 +33,15 @@ title: About
 
 ## Current Role
 
-- Software Engineer - <a href="https://www.checkr.com/">Checkr, Inc.</a>
+- Software Engineer - <a href="https://www.checkr.com/" target=”_blank” rel="noopener noreferrer">Checkr, Inc.</a>
 
 - Notary Public — State of New York
 
 ## Previous Roles
 
-- Software Engineer Apprentice - <a href="https://www.annalect.com/">Annalect</a>
+- Software Engineer Apprentice - <a href="https://www.annalect.com/" target=”_blank” rel="noopener noreferrer">Annalect</a>
 
-- Data Science & Development Intern - <a href="https://www.annalect.com/">Annalect</a>
+- Data Science & Development Intern - <a href="https://www.annalect.com/" target=”_blank” rel="noopener noreferrer">Annalect</a>
 
 - Office Administrator - XIN Development Group International
 
@@ -53,17 +53,17 @@ title: About
 
 ## Education
 
-- Grace Hopper Program - Web Development Immersive
+- Grace Hopper Program - Web Development Bootcamp
 
 - Cornell University - M.A. Asian Studies
 
 - Princeton University - Ishikawa Intensive Japanese Program
 
-- Yonsei University KLI - Korean Language Immersive
+- Yonsei University - Korean Language Institute Immersive Program
 
 - University of Nebraska at Omaha - B.A. International Studies
 
 ## Contact
 
-- <a href="https://www.linkedin.com/in/katherinelee703/">LinkedIn</a>
-- <a href="https://github.com/katherinelee703">GitHub</a>
+- <a href="https://www.linkedin.com/in/katherinelee703/" target=”_blank” rel="noopener noreferrer">LinkedIn</a>
+- <a href="https://github.com/katherinelee703" target=”_blank” rel="noopener noreferrer">GitHub</a>

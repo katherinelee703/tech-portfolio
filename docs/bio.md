@@ -11,7 +11,7 @@ title: Bio
 
 </div>
 <div align="center">
-  <h3>I'm a software engineer.</h3>
+  <h3>I'm currently a software engineer at <a href="https://www.checkr.com">Checkr, Inc.</a></h3>
 
 </div>
 

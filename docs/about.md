@@ -10,6 +10,8 @@ title: About
 ## Technologies
 
 - JavaScript
+- TypeScript (with React & React Query)
+- Angular
 - NERDS Stack:
   - Node.js
   - Express
@@ -19,22 +21,27 @@ title: About
 ## Certificates
 
 - <a href="https://kateres2021.s3.amazonaws.com/Katherine+Durand+GH+Certificate+of+Completion.pdf">Grace Hopper Program - Web Development Immersive - Certificate of Completion (maiden name: Durand)</a>
-- <a href="https://kateres2021.s3.amazonaws.com/JS+Algos+%26+DS+Masterclass+Certificate.pdf-edited.pdf">Udemy - JavaScript Algorithms & Data Structures Masterclass - Certificate of Completion</a>
+- <a href="https://www.udemy.com/certificate/UC-010cfcda-2c7f-4d7c-8782-ae1d4c319313/">Udemy - JavaScript Algorithms & Data Structures Masterclass - Certificate of Completion</a>
+- <a href="https://www.udemy.com/certificate/UC-01e07e07-5a7d-483f-a1d1-55286702e6c7/">Udemy - Mastering TypeScript 2022 - Certificate of Completion</a>
 
 ## Preferred Locations
 
-- New York
-- Seattle
-- Seoul
 - Remote
+- Seattle
+- New York
+- Seoul
 
 ## Current Role
 
-- Data Science & Development Intern - <a href="https://www.annalect.com/">Annalect</a>
+- Software Engineer - <a href="https://www.checkr.com/">Checkr, Inc.</a>
 
 - Notary Public — State of New York
 
 ## Previous Roles
+
+- Software Engineer Apprentice - <a href="https://www.annalect.com/">Annalect</a>
+
+- Data Science & Development Intern - <a href="https://www.annalect.com/">Annalect</a>
 
 - Office Administrator - XIN Development Group International
 

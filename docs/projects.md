@@ -41,7 +41,7 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
 <h1></h1>
 
-## Cutest Coffee Clicker
+## <a href="https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker">Cutest Coffee Clicker</a>
 
 <h1></h1>
 
@@ -71,7 +71,7 @@ The story goes that in a single evening in August of 2013, French web developer 
 
 <h1></h1>
 
-## Violet Vines
+## <a href="https://violet-vines.herokuapp.com/">Violet Vines</a>
 
 <h1></h1>
 

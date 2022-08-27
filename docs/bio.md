@@ -7,7 +7,7 @@ title: Bio
 <h1></h1>
 <h2>Hello, I'm Kate.</h2>
 
-<img src="./assets/pfp.jpg" width="33%">
+<img src="./assets/pfp2.jpg" width="33%">
 
 </div>
 <div align="center">
@@ -26,7 +26,7 @@ title: Bio
 
 <div align="center">
 <h1></h1>
-  <p>===</p>
+  <p>☆</p>
   <h2><em>Fun Facts:</em></h2>
 
   <p>I'm a dog mom!</p>

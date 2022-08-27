@@ -20,7 +20,6 @@ title: Bio
 
 <div align="center">
 <h1></h1>
-  <p>☆</p>
   <h2><em>Fun Facts:</em></h2>
 
   <p>I'm a dog mom!</p>
@@ -28,14 +27,10 @@ title: Bio
 
 <img src="./assets/natto.jpg" width="100%">
 
-  <p>☆</p>
-
   <p>The most stunning place I've visited so far is <a href="https://www.japan.travel/en/spot/1908/" target=”_blank” rel="noopener noreferrer">Hell Valley</a> in Hokkaido.</p>
   <p>It's also where I took my favorite photo:</p>
 
 <img src="./assets/jigokudani.jpg" width="100%">
-
-  <p>☆</p>
 
   <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p>
 

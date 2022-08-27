@@ -11,7 +11,7 @@ title: Bio
 
 </div>
 <div align="center">
-  <h3>I'm currently a software engineer at <a href="https://www.checkr.com" target=”_blank” rel="noopener noreferrer">Checkr.</a></h3>
+  <h3>I'm currently a software engineer at <a href="https://www.checkr.com" target=”_blank” rel="noopener noreferrer">Checkr</a>.</h3>
 
 </div>
 
@@ -45,7 +45,7 @@ title: Bio
 
   <p>My favorite phrase is from "The Girl Who Leapt Through Time":</p>
 
-<img src="./assets/timewaitsfornoone.gif" width="100%>
+<img src="./assets/timewaitsfornoone.gif" width="100%">
 
 <h1></h1>
 </div>

@@ -53,15 +53,15 @@ title: About
 
 ## Education
 
-- <a href="https://www.gracehopper.com/" target="_blank" rel="noopener noreferrer">Grace Hopper Program</a> - Web Development Bootcamp
+- Grace Hopper Program - <a href="https://www.gracehopper.com/" target="_blank" rel="noopener noreferrer">Web Development Bootcamp</a>
 
-- Cornell University - M.A. <a href="https://asianstudies.cornell.edu/" target="_blank" rel="noopener noreferrer">Asian Studies</a>
+- Cornell University - <a href="https://asianstudies.cornell.edu/" target="_blank" rel="noopener noreferrer">M.A. Asian Studies</a>
 
 - Princeton University - <a href="https://pii.princeton.edu/" target="_blank" rel="noopener noreferrer">Ishikawa Intensive Japanese Program</a>
 
 - Yonsei University - <a href="https://www.yskli.com/hp/main/main.do" target="_blank" rel="noopener noreferrer">Korean Language Institute Immersive Program</a>
 
-- University of Nebraska at Omaha - B.A. <a href="https://catalog.unomaha.edu/undergraduate/college-arts-sciences/international-studies/" target="_blank" rel="noopener noreferrer">International Studies</a>
+- University of Nebraska at Omaha - <a href="https://catalog.unomaha.edu/undergraduate/college-arts-sciences/international-studies/" target="_blank" rel="noopener noreferrer">B.A. International Studies</a>
 
 ## Contact
 

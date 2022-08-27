@@ -31,6 +31,8 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
   - Clarifai, Petfinder, Google Maps
 
+> <a href="https://expo.dev/@shelterinpets/ShelterInPets?release-channel=prod" target="_blank" rel="noopener noreferrer">Preview the app with Expo</a>
+>
 > <a href="https://github.com/sense-5/shelter-in-pets#readme" target=”_blank” rel="noopener noreferrer">See our Github README for a visual tutorial</a>
 >
 > <a href="https://kateres2021.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>

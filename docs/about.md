@@ -43,25 +43,25 @@ title: About
 
 - Data Science & Development Intern - <a href="https://www.annalect.com/" target=”_blank” rel="noopener noreferrer">Annalect</a>
 
-- Office Administrator - XIN Development Group International
+- Office Administrator - <a href="https://www.xyreusa.com/about/" target="_blank" rel="noopener noreferrer">XIN Development Group International</a>
 
-- Graduate Teaching Assistant - Cornell University Asian Studies Dept.
+- Graduate Teaching Assistant - <a href="https://asianstudies.cornell.edu/" target="_blank" rel="noopener noreferrer">Cornell University Asian Studies Dept.</a>
 
-- Native English Instructor - Chungdahm Learning APRIL English Academy
+- Native English Instructor - <a href="https://teachinkorea.chungdahm.com/programs/april" target="_blank" rel="noopener noreferrer">Chungdahm Learning APRIL English Academy</a>
 
-- Translator & Administrator - Yonsei University Korean Language Institute
+- Translator & Administrator - <a href="https://www.yskli.com/hp/main/main.do" target="_blank" rel="noopener noreferrer">Yonsei University Korean Language Institute</a>
 
 ## Education
 
-- Grace Hopper Program - Web Development Bootcamp
+- <a href="https://www.gracehopper.com/" target="_blank" rel="noopener noreferrer">Grace Hopper Program</a> - Web Development Bootcamp
 
-- Cornell University - M.A. Asian Studies
+- Cornell University - M.A. <a href="https://asianstudies.cornell.edu/" target="_blank" rel="noopener noreferrer">Asian Studies</a>
 
-- Princeton University - Ishikawa Intensive Japanese Program
+- Princeton University - <a href="https://pii.princeton.edu/" target="_blank" rel="noopener noreferrer">Ishikawa Intensive Japanese Program</a>
 
-- Yonsei University - Korean Language Institute Immersive Program
+- Yonsei University - <a href="https://www.yskli.com/hp/main/main.do" target="_blank" rel="noopener noreferrer">Korean Language Institute Immersive Program</a>
 
-- University of Nebraska at Omaha - B.A. International Studies
+- University of Nebraska at Omaha - B.A. <a href="https://catalog.unomaha.edu/undergraduate/college-arts-sciences/international-studies/" target="_blank" rel="noopener noreferrer">International Studies</a>
 
 ## Contact
 

@@ -5,7 +5,7 @@ title: Projects
 
 <h1></h1>
 
-## <a href="https://expo.dev/@shelterinpets/ShelterInPets?release-channel=prod" target=”_blank” rel="noopener noreferrer">Shelter in Pets</a>
+## Shelter in Pets
 
 <h1></h1>
 
@@ -31,7 +31,7 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
   - Clarifai, Petfinder, Google Maps
 
-> <a href="https://expo.dev/@shelterinpets/ShelterInPets?release-channel=prod" target="_blank" rel="noopener noreferrer">Preview the app with Expo</a>
+> <a href="https://expo.dev/@shelterinpets/ShelterInPets?release-channel=prod" target="_blank" rel="noopener noreferrer"><b>Preview the app with Expo</b></a>
 >
 > <a href="https://github.com/sense-5/shelter-in-pets#readme" target=”_blank” rel="noopener noreferrer">See our Github README for a visual tutorial</a>
 >
@@ -43,7 +43,7 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 
 <h1></h1>
 
-## <a href="https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker" target=”_blank” rel="noopener noreferrer">Cutest Coffee Clicker</a>
+## Cutest Coffee Clicker
 
 <h1></h1>
 
@@ -65,15 +65,13 @@ The story goes that in a single evening in August of 2013, French web developer 
 
   - AWS S3, AWS Lambda
 
-### Play it here!
-
-> <a href="https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker" target=”_blank” rel="noopener noreferrer">Cutest-Coffee-Clicker</a>
+> <a href="https://0lxgcxllm9.execute-api.us-east-1.amazonaws.com/CoffeeClicker" target=”_blank” rel="noopener noreferrer"><b>You can play Cutest-Coffee-Clicker here!</b></a>
 
 <img src="./assets/cc-preview.png" width="100%">
 
 <h1></h1>
 
-## <a href="https://violet-vines.herokuapp.com/" target=”_blank” rel="noopener noreferrer">Violet Vines</a>
+## Violet Vines
 
 <h1></h1>
 
@@ -97,7 +95,7 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 
   - Mockaroo custom JSON, Stripe
 
-> <a href="https://violet-vines.herokuapp.com/" target="_blank" rel="noopener noreferrer">Visit the website</a>
+> <a href="https://violet-vines.herokuapp.com/" target="_blank" rel="noopener noreferrer"><b>Visit the website</b></a>
 >
 > <a href="https://github.com/2001-800080/graceshopperrepo#readme" target=”_blank” rel="noopener noreferrer">See our Github Repo</a>
 >
@@ -109,7 +107,7 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 
 <h1></h1>
 
-## <a href="https://mybiasbook.com" target="_blank" rel="noopener noreferrer">My Bias Book</a>
+## My Bias Book
 
 <h1></h1>
 

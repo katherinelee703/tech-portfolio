@@ -1,0 +1,63 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Studying System Design · Katherine Lee</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="I&#x27;ve been a little apprehensive about system design since we first practiced whiteboarding these concepts during Bootcamp. I was intimidated by how broad the topic was, and by how many different technologies you could choose to include or exclude in your design. The tradeoffs seemed endless, and technologies to choose from numerous."/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Studying System Design · Katherine Lee"/><meta property="og:type" content="website"/><meta property="og:url" content="https://katherinelee703.github.io/tech-portfolio/blog/2021/04/22/blog-post"/><meta property="og:description" content="I&#x27;ve been a little apprehensive about system design since we first practiced whiteboarding these concepts during Bootcamp. I was intimidated by how broad the topic was, and by how many different technologies you could choose to include or exclude in your design. The tradeoffs seemed endless, and technologies to choose from numerous."/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/tech-portfolio/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://katherinelee703.github.io/tech-portfolio/blog/atom.xml" title="Katherine Lee Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://katherinelee703.github.io/tech-portfolio/blog/feed.xml" title="Katherine Lee Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/tech-portfolio/js/scrollSpy.js"></script><link rel="stylesheet" href="/tech-portfolio/css/main.css"/><script src="/tech-portfolio/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/tech-portfolio/"><img class="logo" src="/tech-portfolio/img/favicon.ico" alt="Katherine Lee"/><h2 class="headerTitleWithLogo">Katherine Lee</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/tech-portfolio/docs/bio" target="_self">Bio</a></li><li class=""><a href="/tech-portfolio/docs/about" target="_self">About</a></li><li class=""><a href="/tech-portfolio/docs/projects" target="_self">Projects</a></li><li class="siteNavGroupActive"><a href="/tech-portfolio/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2022/08/27/blog-post">Learning TypeScript</a></li><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2021/04/26/blog">My Favorite Problem So Far</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/tech-portfolio/blog/2021/04/22/blog-post">Studying System Design</a></li><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2020/10/20/blog-post">Taking a Masterclass on Udemy</a></li><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2020/10/02/blog-post">vGHC 2020</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="lonePost"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/tech-portfolio/blog/2021/04/22/blog-post">Studying System Design</a></h1><p class="post-meta">April 22, 2021</p><div class="authorBlock"></div></header><div><span><p>I've been a little apprehensive about system design since we first practiced whiteboarding these concepts during Bootcamp. I was intimidated by how broad the topic was, and by how many different technologies you could choose to include or exclude in your design. The tradeoffs seemed endless, and technologies to choose from numerous.</p>
+<p>So instead of sitting on my worries any longer, I decided to work through the book <a href="https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/" target=”_blank” rel="noopener noreferrer">System Design Interview</a> by Alex Xu. (Actually, there's now a <a href="https://www.amazon.com/System-Design-Interview-Insiders-Guide/dp/1736049119" target=”_blank” rel="noopener noreferrer">2nd book</a> in the series!)</p>
+<p>It was extremely helpful, and really broke down the more complex concepts into manageable mini-lessons. It didn't matter that this was content I was seeing for the very first time - the author made it very digestible.</p>
+<p>I think my main takeaway from this book was to <em>ask questions</em>. Since system design questions are naturally open-ended, it really helped to understand what kinds of questions to ask at the very beginning to narrow down the scope of what I can feasibly accomplish designing in a brief 45 minute to 1 hour time slot.</p>
+<p>My other favorite part of this book was the &quot;back-of-the-envelope&quot; estimations section. It showed me that there's no need to get nervous about &quot;doing math&quot; because the math required is very simple. Even for very large numbers.</p>
+<p>I can see myself coming back to this book from time to time, perhaps when I'm starting to design more of my own larger-scale projects in the future.</p>
+</span></div></div><div class="blogSocialSection"></div></div><div class="blog-recent"><a class="button" href="/tech-portfolio/blog/">Recent Posts</a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="social"><a href="https://www.linkedin.com/in/katherinelee703" target="_blank" class="social"><img alt="LinkedIn" src="/tech-portfolio/img/linkedin.svg"/></a><a href="https://github.com/katherinelee703" target="_blank" class="social"><img alt="GitHub" src="/tech-portfolio/img/github.svg"/></a></section><section class="copyright">Copyright © 2024 Katherine Lee. Created with <a href="https://docusaurus.io/">Docusaurus</a></section></footer></div></body></html>

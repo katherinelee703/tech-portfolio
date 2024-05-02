@@ -1,0 +1,119 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>My Favorite Problem So Far · Katherine Lee</title><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="generator" content="Docusaurus"/><meta name="description" content="&lt;p&gt;I’ve been working through a new algorithms and data structures book recently, and I saw a problem that has been loosely appearing in my imagination on and off for some time.&lt;/p&gt;"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="My Favorite Problem So Far · Katherine Lee"/><meta property="og:type" content="website"/><meta property="og:url" content="https://katherinelee703.github.io/tech-portfolio/blog/2021/04/26/blog"/><meta property="og:description" content="&lt;p&gt;I’ve been working through a new algorithms and data structures book recently, and I saw a problem that has been loosely appearing in my imagination on and off for some time.&lt;/p&gt;"/><meta name="twitter:card" content="summary"/><link rel="shortcut icon" href="/tech-portfolio/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><link rel="alternate" type="application/atom+xml" href="https://katherinelee703.github.io/tech-portfolio/blog/atom.xml" title="Katherine Lee Blog ATOM Feed"/><link rel="alternate" type="application/rss+xml" href="https://katherinelee703.github.io/tech-portfolio/blog/feed.xml" title="Katherine Lee Blog RSS Feed"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/tech-portfolio/js/scrollSpy.js"></script><link rel="stylesheet" href="/tech-portfolio/css/main.css"/><script src="/tech-portfolio/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/tech-portfolio/"><img class="logo" src="/tech-portfolio/img/favicon.ico" alt="Katherine Lee"/><h2 class="headerTitleWithLogo">Katherine Lee</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="/tech-portfolio/docs/bio" target="_self">Bio</a></li><li class=""><a href="/tech-portfolio/docs/about" target="_self">About</a></li><li class=""><a href="/tech-portfolio/docs/projects" target="_self">Projects</a></li><li class="siteNavGroupActive"><a href="/tech-portfolio/blog/" target="_self">Blog</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>Recent Posts</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle">Recent Posts</h3><ul class=""><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2022/08/27/blog-post">Learning TypeScript</a></li><li class="navListItem navListItemActive"><a class="navItem" href="/tech-portfolio/blog/2021/04/26/blog">My Favorite Problem So Far</a></li><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2021/04/22/blog-post">Studying System Design</a></li><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2020/10/20/blog-post">Taking a Masterclass on Udemy</a></li><li class="navListItem"><a class="navItem" href="/tech-portfolio/blog/2020/10/02/blog-post">vGHC 2020</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer postContainer blogContainer"><div class="wrapper"><div class="lonePost"><div class="post"><header class="postHeader"><h1 class="postHeaderTitle"><a href="/tech-portfolio/blog/2021/04/26/blog">My Favorite Problem So Far</a></h1><p class="post-meta">April 26, 2021</p><div class="authorBlock"></div></header><div><span><p>I’ve been working through a new algorithms and data structures book recently, and I saw a problem that has been loosely appearing in my imagination on and off for some time.</p>
+<p>When I read the description, I was immediately excited because it put my idea into very clear terms.</p></br>
+<p><strong>It goes like this:</strong></p></br>
+<ul><li>Imagine a set of cities arranged in order.
+<li>You need to drive through all of the cities exactly once, and stop at the same city you started from.
+<li>You will refill your car’s gas tank at each city.
+<li>But each city only has a certain amount of gas you can have.
+<li>It is given that at least one city will work as the starting point.</ul></br>
+<p><strong>How do you find out which starting city ensures you won’t run out of fuel at any point during your trip?</strong></p></br>
+<p>I’d been thinking of this problem more in terms of how to beat a level in a game without running out of stamina or moves, but it’s much clearer when it’s phrased as the “gas up” problem.</p>
+<p>As the book said, it was very easy to mistake this problem as a greedy algorithm problem. Or, in other words, a math-y “best gas-to-mileage ratio = starting point” problem.</p>
+<p>But it isn't.</p></br>
+<p>You can solve this problem in O(n) time, where n is the number of cities.</p>
+<p>You can imagine it like a line graph. Then all you need to do is pass over each city once and calculate the gas used up by the time you reach the next city. Then do your refill.</p>
+<p>You’re not looking for the best gas-to-mileage ratio, or trying to do recursion to narrow down the choices.</p>
+<p>All you’re looking for is the moment when you have the LEAST gas upon entry to any given city. When computing this, it also doesn’t even matter which city you start with, because the city that is the minimum for ONE graph will be the minimum for ALL graphs.</p>
+<p>It is guaranteed that starting from there will ensure you can make the full trip without running out of gas.</p></br>
+<p><strong>Here’s some quick illustrations I made:</strong></p></br>
+<p><img src="https://gas-up-problem.s3.amazonaws.com/where-to-start.png" alt="where-to-start-img"></p>
+<p><img src="https://gas-up-problem.s3.amazonaws.com/incorrect-start.png" alt="incorrect-start-img"></p>
+<p><img src="https://gas-up-problem.s3.amazonaws.com/correct-start.png" alt="correct-start-img"></p>
+<p></p></br>
+<p>Isn’t that cool!?</p></br>
+<p>Here's my code for it if you want to check it out~</p></br>
+<pre><code class="hljs"><span class="hljs-comment">// You will be given 3 Inputs like these:</span>
+
+<span class="hljs-keyword">let</span> gas = [<span class="hljs-number">50</span>,<span class="hljs-number">20</span>,<span class="hljs-number">5</span>,<span class="hljs-number">30</span>,<span class="hljs-number">25</span>,<span class="hljs-number">10</span>,<span class="hljs-number">10</span>];
+<span class="hljs-keyword">let</span> dist = [<span class="hljs-number">900</span>,<span class="hljs-number">600</span>,<span class="hljs-number">200</span>,<span class="hljs-number">400</span>,<span class="hljs-number">600</span>,<span class="hljs-number">200</span>,<span class="hljs-number">100</span>];
+<span class="hljs-keyword">let</span> mpg = <span class="hljs-number">20</span>;
+
+
+<span class="hljs-function"><span class="hljs-keyword">function</span> <span class="hljs-title">gasUp</span>(<span class="hljs-params">gas, dist, mpg</span>) </span>{
+  <span class="hljs-keyword">let</span> gasAtDepart = {};
+  <span class="hljs-keyword">let</span> gasBeforeEntry = {};
+  <span class="hljs-keyword">let</span> currGas = <span class="hljs-number">0</span>;
+  <span class="hljs-keyword">let</span> gasLeft = <span class="hljs-number">0</span>;
+  <span class="hljs-keyword">let</span> runningMin = <span class="hljs-literal">Infinity</span>;
+  <span class="hljs-keyword">let</span> start;
+
+  <span class="hljs-keyword">for</span> (<span class="hljs-keyword">let</span> i = <span class="hljs-number">0</span>; i &lt; dist.length; i++) {
+    <span class="hljs-keyword">if</span> (gasLeft &lt; runningMin) {
+      runningMin = gasLeft;
+      start = i;
+    }
+    gasBeforeEntry[i] = gasLeft;
+    currGas += gas[i];
+    gasAtDepart[i] = currGas;
+    <span class="hljs-keyword">let</span> gasUsed = dist[i] / mpg;
+    gasLeft = currGas - gasUsed;
+    currGas = gasLeft;
+  }
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"gas at depart:"</span>, gasAtDepart);
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"gas on entry:"</span>, gasBeforeEntry);
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"min:"</span>, runningMin);
+  <span class="hljs-built_in">console</span>.log(<span class="hljs-string">"min index (start idx):"</span>, start);
+
+  <span class="hljs-keyword">return</span> <span class="hljs-string">`start from city at index <span class="hljs-subst">${start}</span>`</span>;
+
+}
+
+gasUp(gas, dist, mpg);
+</code></pre>
+</span></div></div><div class="blogSocialSection"></div></div><div class="blog-recent"><a class="button" href="/tech-portfolio/blog/">Recent Posts</a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="social"><a href="https://www.linkedin.com/in/katherinelee703" target="_blank" class="social"><img alt="LinkedIn" src="/tech-portfolio/img/linkedin.svg"/></a><a href="https://github.com/katherinelee703" target="_blank" class="social"><img alt="GitHub" src="/tech-portfolio/img/github.svg"/></a></section><section class="copyright">Copyright © 2024 Katherine Lee. Created with <a href="https://docusaurus.io/">Docusaurus</a></section></footer></div></body></html>

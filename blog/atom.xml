@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://katherinelee703.github.io/tech-portfolio/blog</id>
+    <title>Katherine Lee Blog</title>
+    <updated>2022-08-27T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://katherinelee703.github.io/tech-portfolio/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Katherine Lee news and events.</subtitle>
+    <logo>https://katherinelee703.github.io/tech-portfolio/img/favicon.ico</logo>
+    <rights>Copyright © 2024 Katherine Lee</rights>
+    <entry>
+        <title type="html"><![CDATA[Learning TypeScript]]></title>
+        <id>https://katherinelee703.github.io/tech-portfolio/blog/2022/08/27/blog-post.html</id>
+        <link href="https://katherinelee703.github.io/tech-portfolio/blog/2022/08/27/blog-post.html"/>
+        <updated>2022-08-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>So, I came back to Udemy for another course! I wanted to become more proficient at TypeScript for work, so I was excited to see that the instructor I wrote about in a previous post had opened a new class called <a href="https://www.udemy.com/course/learn-typescript/" target="”_blank”" rel="noopener noreferrer">Mastering TypeScript - 2022 Edition</a></p> <p>I w...</p>]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Favorite Problem So Far]]></title>
+        <id>https://katherinelee703.github.io/tech-portfolio/blog/2021/04/26/blog.html</id>
+        <link href="https://katherinelee703.github.io/tech-portfolio/blog/2021/04/26/blog.html"/>
+        <updated>2021-04-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I’ve been working through a new algorithms and data structures book recently, and I saw a problem that has been loosely appearing in my imagination on and off for some time.</p> <p>When I read the description, I was immediately excited because it put my ide...</p>]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Studying System Design]]></title>
+        <id>https://katherinelee703.github.io/tech-portfolio/blog/2021/04/22/blog-post.html</id>
+        <link href="https://katherinelee703.github.io/tech-portfolio/blog/2021/04/22/blog-post.html"/>
+        <updated>2021-04-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I've been a little apprehensive about system design since we first practiced whiteboarding these concepts during Bootcamp. I was intimidated by how broad the topic was, and by how many different technologies you could choose to include or exclude in ...</p>]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taking a Masterclass on Udemy]]></title>
+        <id>https://katherinelee703.github.io/tech-portfolio/blog/2020/10/20/blog-post.html</id>
+        <link href="https://katherinelee703.github.io/tech-portfolio/blog/2020/10/20/blog-post.html"/>
+        <updated>2020-10-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I've found that Udemy courses tend to really fit my learning style, and I cannot recommend enough the <a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/" target="”_blank”" rel="noopener noreferrer">JavaScript Algorithms and Data Structures Masterclass</a> taught by Colt Steele.</p> <p>For any bootcamp grad who felt they wanted more time and practice with ...</p>]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vGHC 2020]]></title>
+        <id>https://katherinelee703.github.io/tech-portfolio/blog/2020/10/02/blog-post.html</id>
+        <link href="https://katherinelee703.github.io/tech-portfolio/blog/2020/10/02/blog-post.html"/>
+        <updated>2020-10-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>I learned how to create my technical portfolio at <a href="https://ghc.anitab.org/" target="”_blank”" rel="noopener noreferrer">Grace Hopper Celebration</a> 2020!</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>

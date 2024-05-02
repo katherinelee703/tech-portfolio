@@ -35,7 +35,7 @@ It matches user-uploaded dog images to similar adoptable dogs, allows a user to 
 >
 > <a href="https://github.com/sense-5/shelter-in-pets#readme" target=”_blank” rel="noopener noreferrer">See our Github README for a visual tutorial</a>
 >
-> <a href="https://kateres2021.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
+> <a href="https://kate-lee-docs.s3.amazonaws.com/Shelter-In-Pets-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
 
 ### Preview
 
@@ -99,7 +99,7 @@ Features include fully functional Cart, Inventory, Logged-in vs Guest vs Admin U
 >
 > <a href="https://github.com/2001-800080/graceshopperrepo#readme" target=”_blank” rel="noopener noreferrer">See our Github Repo</a>
 >
-> <a href="https://kateres2021.s3.amazonaws.com/Violet-Vines-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
+> <a href="https://kate-lee-docs.s3.amazonaws.com/Violet-Vines-Overview.pdf" target=”_blank” rel="noopener noreferrer">Or check out our Project Overview slides</a>
 
 ### Preview
 
